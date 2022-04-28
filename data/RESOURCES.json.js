@@ -15,6 +15,18 @@ GS.dataCache['RESOURCES'] = {
             "Audio/Sounds/Menu/silent hill 2 menu sound": [
                 ".mp3"
             ],
+            "Audio/Sounds/Sound effects/footstep 1": [
+                ".mp3"
+            ],
+            "Audio/Sounds/Sound effects/footstep 2": [
+                ".mp3"
+            ],
+            "Audio/Sounds/Sound effects/footstep 3": [
+                ".mp3"
+            ],
+            "Audio/Sounds/Sound effects/footstep1": [
+                ".mp3"
+            ],
             "Audio/Sounds/System/choice_cancel_01": [
                 ".ogg"
             ],
@@ -60,6 +72,9 @@ GS.dataCache['RESOURCES'] = {
             "Audio/Sounds/System/save_02": [
                 ".ogg"
             ],
+            "Graphics/Fonts/DraftingTable": [
+                ".woff"
+            ],
             "Graphics/Icons/Germany": [
                 ".png"
             ],
@@ -73,6 +88,11 @@ GS.dataCache['RESOURCES'] = {
                 ".webm"
             ],
             "Graphics/Movie/Splashscreen-3": [
+                ".mp4",
+                ".webm"
+            ],
+            "Graphics/Movie/Teaser 4.0": [
+                ".mp4",
                 ".webm"
             ],
             "Graphics/Movie/Teaser": [
@@ -95,37 +115,25 @@ GS.dataCache['RESOURCES'] = {
             "Graphics/Pictures/Main Menu/a1ddc1_f7180ae541ba4664b49d65a29b2507ba~mv2": [
                 ".gif"
             ],
+            "Graphics/Pictures/Maps/Bathroom/Bathroom-1 2": [
+                ".png"
+            ],
+            "Graphics/Pictures/Maps/Bathroom/Bathroom-1 hover 2": [
+                ".png"
+            ],
+            "Graphics/Pictures/Maps/Bathroom/Bathroom-1 hover 3": [
+                ".png"
+            ],
+            "Graphics/Pictures/Maps/Bathroom/Bathroom-1 hover": [
+                ".png"
+            ],
             "Graphics/Pictures/Maps/Bathroom/Bathroom-1": [
                 ".png"
             ],
+            "Graphics/Pictures/Maps/Bathroom/Bathroom-door": [
+                ".png"
+            ],
             "Graphics/Pictures/UI/Background": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/Mobile/m-arrow-disabled": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/Mobile/m-arrow": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/Mobile/m-diamond-large-off": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/Mobile/m-diamond-large-on": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/Mobile/m-diamond-small-off": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/Mobile/m-diamond-small-on": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/Mobile/msg-diamond-small-off": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/Mobile/msg-diamond-small-on": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/bg-generic": [
                 ".png"
             ],
             "Graphics/Pictures/UI/cursor-8": [
@@ -134,46 +142,10 @@ GS.dataCache['RESOURCES'] = {
             "Graphics/Pictures/UI/cursor": [
                 ".cur"
             ],
-            "Graphics/Pictures/UI/diamond-large-off": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/diamond-large-on": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/diamond-small-off": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/diamond-small-on": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/dropshadow": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/entrybox": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/locked": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/message_caret": [
-                ".png"
-            ],
             "Graphics/Pictures/UI/output-onlinepngtools-3": [
                 ".png"
             ],
             "Graphics/Pictures/UI/output-onlinepngtools": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/scrollbar": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/skin-frame": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/skin-stretch": [
-                ".png"
-            ],
-            "Graphics/Pictures/UI/thumbnailshadow": [
                 ".png"
             ],
             "Graphics/Pictures/web-start-screen": [

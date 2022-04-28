@@ -1,91 +1,15 @@
-GS.dataCache['B16FD8DC7864C24DE3582A842A8B9BDD7898'] = {
-    "uid": "B16FD8DC7864C24DE3582A842A8B9BDD7898",
+GS.dataCache['1400FB588B5D83420B18D38139212651E8FE'] = {
+    "uid": "1400FB588B5D83420B18D38139212651E8FE",
     "isLoaded": true,
     "lastModificationTime": 0,
     "items": {
-        "name": "Title",
+        "name": "Title-basic",
         "type": "vn.scene",
         "parentId": "EC29B7733A536543891B8813BC45BC22795E",
         "chapterUid": "EC29B7733A536543891B8813BC45BC22795E",
-        "order": 0,
+        "order": 1,
+        "localizableStrings": {},
         "commands": [
-            {
-                "id": "vn.SetGameData",
-                "params": {
-                    "field": 11,
-                    "numberValue": 0,
-                    "textValue": "",
-                    "switchValue": 1
-                },
-                "uid": "3CBC27CE5CB4454E0288BDD57D8CA906C948",
-                "indent": 0
-            },
-            {
-                "id": "gs.WaitCommand",
-                "params": {
-                    "time": 30
-                },
-                "uid": "78A7A3861A0D324C5A998A516D39AB87392A",
-                "indent": 0
-            },
-            {
-                "id": "gs.PlayVideo",
-                "params": {
-                    "video": {
-                        "name": "Splashscreen-3.mp4",
-                        "folderPath": "Graphics/Movie",
-                        "hue": 0,
-                        "opacity": 255,
-                        "blending": 0,
-                        "tone": {
-                            "red": 0,
-                            "green": 0,
-                            "blue": 0,
-                            "grey": 0
-                        },
-                        "volume": 100,
-                        "playbackRate": 100
-                    },
-                    "volume": 100,
-                    "playbackRate": 100,
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
-                    }
-                },
-                "uid": "1F8C18FE675AD84DB57A58758A673AFAEFE0",
-                "indent": 0
-            },
-            {
-                "id": "gs.PlaySound",
-                "params": {
-                    "sound": {
-                        "folderPath": "Audio/Sounds/Menu",
-                        "name": "light.mp3",
-                        "volume": 100,
-                        "playbackRate": "88"
-                    },
-                    "musicEffect": 0,
-                    "loop": 0,
-                    "waitForCompletion": 0,
-                    "fieldFlags": {
-                        "sound.volume": 1,
-                        "sound.playbackRate": 0
-                    },
-                    "previewBackground": {
-                        "name": "$live_preview_snapshot"
-                    }
-                },
-                "uid": "6EF5A33D3B38034A406A2476473E319F3CF1",
-                "indent": 0
-            },
-            {
-                "id": "gs.WaitCommand",
-                "params": {
-                    "time": 66
-                },
-                "uid": "9F7EDCB405C91348617995B7EEE6862053F0",
-                "indent": 0
-            },
             {
                 "id": "gs.ShowPicture",
                 "params": {
@@ -120,7 +44,7 @@ GS.dataCache['B16FD8DC7864C24DE3582A842A8B9BDD7898'] = {
                     "number": 0,
                     "blendMode": 0,
                     "zOrder": 0,
-                    "duration": 66,
+                    "duration": 60,
                     "origin": 0,
                     "waitForCompletion": 1,
                     "positionType": 0,
@@ -129,7 +53,7 @@ GS.dataCache['B16FD8DC7864C24DE3582A842A8B9BDD7898'] = {
                         "y": 0
                     },
                     "easing": {
-                        "type": 8,
+                        "type": 0,
                         "inOut": 1
                     },
                     "animation": {
@@ -471,29 +395,7 @@ GS.dataCache['B16FD8DC7864C24DE3582A842A8B9BDD7898'] = {
             }
         ],
         "livePreviewDisabled": false,
-        "booleanVariables": [
-            {
-                "name": "",
-                "index": 0,
-                "scope": 0
-            }
-        ],
         "numberVariables": [
-            {
-                "name": "",
-                "index": 0,
-                "scope": 0,
-                "domain": "com.degica.vnm.default"
-            }
-        ],
-        "stringVariables": [
-            {
-                "name": "",
-                "index": 0,
-                "scope": 0
-            }
-        ],
-        "listVariables": [
             {
                 "name": "",
                 "index": 0,

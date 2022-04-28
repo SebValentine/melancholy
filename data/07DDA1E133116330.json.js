@@ -10,7 +10,8 @@ GS.dataCache['07DDA1E133116330'] = {
                 "name": "",
                 "scope": 1,
                 "index": 0,
-                "changed": true
+                "changed": true,
+                "domain": "com.degica.vnm.default"
             },
             {
                 "name": "My Other Var X",
@@ -530,9 +531,11 @@ GS.dataCache['07DDA1E133116330'] = {
                 "changed": true
             },
             {
-                "name": "",
+                "name": "Save Game",
                 "index": 2,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default",
+                "changed": true
             },
             {
                 "name": "",
@@ -627,7 +630,8 @@ GS.dataCache['07DDA1E133116330'] = {
             {
                 "name": "My List",
                 "index": 0,
-                "scope": 1
+                "scope": 1,
+                "domain": "com.degica.vnm.default"
             },
             {
                 "name": "Other List",

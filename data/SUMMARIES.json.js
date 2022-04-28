@@ -298,13 +298,6 @@ GS.dataCache['SUMMARIES'] = {
                 "order": 0
             }
         },
-        "5FDD1950K9FA1A4BCCSB00CEE54C8BC8AE54": {
-            "items": {
-                "name": "Quit Game",
-                "type": "data_record",
-                "order": 1
-            }
-        },
         "2C26A99BK03D7A4EC4SAA29EE1DB000A7E1E": {
             "items": {
                 "name": "System",
@@ -3037,6 +3030,22 @@ GS.dataCache['SUMMARIES'] = {
                 "parentId": "3B07694818DCA34D2F4941C57D19FE13090A",
                 "chapterUid": "3B07694818DCA34D2F4941C57D19FE13090A",
                 "order": 0
+            }
+        },
+        "604EB3472EDB6042D08B4C27798759D51A7A": {
+            "items": {
+                "name": "Save Game",
+                "type": "data_record",
+                "order": 0
+            }
+        },
+        "1400FB588B5D83420B18D38139212651E8FE": {
+            "items": {
+                "name": "Title-basic",
+                "type": "vn.scene",
+                "parentId": "EC29B7733A536543891B8813BC45BC22795E",
+                "chapterUid": "EC29B7733A536543891B8813BC45BC22795E",
+                "order": 1
             }
         }
     }

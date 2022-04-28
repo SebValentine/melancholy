@@ -280,7 +280,7 @@ GS.dataCache['2C26A99BK03D7A4EC4SAA29EE1DB000A7E1E'] = {
                 },
                 "vague": 30
             },
-            "aspectRatio": 0,
+            "aspectRatio": 2,
             "mouseSupport": true,
             "startScene": {
                 "uid": {
@@ -295,10 +295,10 @@ GS.dataCache['2C26A99BK03D7A4EC4SAA29EE1DB000A7E1E'] = {
                 "vague": 30
             },
             "customResolutionWidth": 1920,
-            "resolutionType": 1,
+            "resolutionType": 0,
             "startInfo": {
                 "scene": {
-                    "uid": "3305C56CKBF5BA44BFS8614EE4B277E49F6A",
+                    "uid": "CF2FA3A531BFC143635B846648EFFBC8DA19",
                     "name": "Sample Scene"
                 }
             },
@@ -352,7 +352,14 @@ GS.dataCache['2C26A99BK03D7A4EC4SAA29EE1DB000A7E1E'] = {
                     "blue": 0
                 }
             },
-            "colors": [],
+            "colors": [
+                {
+                    "red": 0,
+                    "green": 0,
+                    "blue": 0,
+                    "alpha": 255
+                }
+            ],
             "sounds": [
                 {
                     "folderPath": "Audio/Sounds/Menu",
@@ -425,7 +432,7 @@ GS.dataCache['2C26A99BK03D7A4EC4SAA29EE1DB000A7E1E'] = {
             ],
             "gameUid": "74B37C432607054C896A2AC142B587A7A74A",
             "saveSlotCount": 1,
-            "gameDataPath": 2
+            "gameDataPath": 1
         },
         "id": "2C26A99BK03D7A4EC4SAA29EE1DB000A7E1E",
         "parentId": "ROOT",
