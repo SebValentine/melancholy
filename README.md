@@ -1,1 +1,3 @@
-Bleh.
+Melancoly is a point and click horror game made by me! :)
+I added some new features and videos in the game...
+I think we could say this version is 0.3
