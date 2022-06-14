@@ -1,3 +1,5 @@
-Melancoly is a point and click horror game made by me! :)
-I added some new features and videos in the game...
-I think we could say this version is 0.3
+Melancholy 1.0 is out!
+
+You can download it from:
+
+https://gamejolt.com/games/melancholy/718507 or https://seb-valentine.itch.io/melancholy
